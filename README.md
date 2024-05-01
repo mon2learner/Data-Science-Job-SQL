@@ -23,7 +23,7 @@ This GitHub repository houses an analytical project centered around a dataset fr
 ## How to Use This Repository
 1. **Clone the Repository:**
    ```bash
-   git clone [repository-url]
+   git clone [repository - (https://github.com/mon2learner/Data-Science-Job-SQL)]
    ```
 2. **Data Analysis:**
    - Import the `salaries.csv` into your SQL database.
